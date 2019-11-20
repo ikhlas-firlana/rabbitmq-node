@@ -1,0 +1,2 @@
+# rabbitmq-node
+node
